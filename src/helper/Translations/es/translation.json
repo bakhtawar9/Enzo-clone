@@ -1,0 +1,52 @@
+{
+    "enzo": "Enzo",
+    "preferences": "Préférences",
+    "notifications": "Notifications",
+    "reviews": "Avis",
+    "settings": "Paramètres",
+    "install_code": "Installer le code",
+    "musfq": "Musfq",
+    
+        "email": "Courriel",
+        "password": "Mot de passe",
+        "login": "Connexion",
+        "welcome": "Salut, bon retour",
+        "forgot_password": "Mot de passe oublié?",
+        "no_account": "Vous n'avez pas de compte?",
+        "create_account": "Créer un compte",
+         "believe": "Je crois que la plupart des choses peuvent être dites en quelques lignes.",
+          "ferrari": "-Enzo Ferrari",
+
+          "customerNotifications": "Notifications client",
+          "employeeNotifications": "Notifications des employés",
+          "systemNotifications": "Notifications système",
+          "saveButton": "Sauvegarder",
+
+              "darkMode": "Mode sombre",
+              "region": "Région",
+              "language": "Langue",
+              "enableReports": "Activer les rapports",
+              "frequency": "Fréquence",
+              "sendTo": "Envoyer à",
+       
+                "europe": "Europe",
+                "northAmerica": "Amérique du Nord",
+                "asia": "Asie",
+            
+                "english": "Anglais",
+                "spanish": "Espagnol",
+                "french": "Français",
+            
+                "onceAWeek": "Une fois par semaine",
+                "daily": "Quotidien",
+                "monthly": "Mensuel",
+
+                "sendSurvey": "Envoyer un sondage pour les conversations gérées par EnzoAI",
+                "messageAboutRating": "Message concernant la notation",
+                "rateExperience": "Comment évalueriez-vous votre expérience de conversation avec nous aujourd'hui ?",
+                "additionalComment": "Commentaire supplémentaire",
+                "commentPlaceholder": "Partagez vos commentaires pour cette évaluation"
+          
+      }
+      
+  
